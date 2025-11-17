@@ -1,0 +1,23 @@
+.footer {
+    background-color: #852C3A;
+    color: #fff;
+    text-align: center;
+    padding: 1.5rem 0;
+    font-family: Calibri, sans-serif;
+    margin-top: 3rem;
+    border-radius: 8px 8px 0 0;
+
+}
+
+.footer a {
+    color: #FFD7D7;
+    text-decoration: none;
+    margin: 0 0.8rem;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.footer p {
+    margin: 0.3rem 0;
+    font-size: 0.95rem;
+}

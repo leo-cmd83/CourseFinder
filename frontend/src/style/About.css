@@ -1,0 +1,33 @@
+.about {
+    padding: 2rem;
+    font-family: Calibri, sans-serif;
+    line-height: 1.6;
+}
+
+h2 {
+    color: #852C3A;
+    margin-bottom: 1rem;
+}
+
+h3 {
+    color: #333;
+    margin-top: 1.5rem;
+}
+
+ul {
+    margin-left: 1.5rem;
+}
+
+a {
+    color: #852C3A;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.contact {
+    margin-top: 2rem;
+    font-style: italic;
+}

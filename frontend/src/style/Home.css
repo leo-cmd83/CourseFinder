@@ -1,0 +1,59 @@
+.home {
+    text-align: center;
+    font-family: Calibri, sans-serif;
+}
+
+.hero {
+    margin-bottom: 3rem;
+}
+
+
+
+h1 {
+    color: #852C3A;
+    margin-bottom: 0.5rem;
+}
+
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.btn {
+    background-color: #852C3A;
+    color: white;
+    padding: 0.7rem 1.5rem;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #6d2330;
+}
+
+.btn.secondary {
+    background-color: #444;
+}
+
+.btn.secondary:hover {
+    background-color: #222;
+}
+
+.how-it-works {
+    background-color: #f9f9f9;
+    padding: 1rem;
+    border-radius: 8px;
+    max-width: 500px;
+    margin: 0 auto 3rem;
+    text-align: left;
+}
+
+.how-it-works li {
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+}
+
